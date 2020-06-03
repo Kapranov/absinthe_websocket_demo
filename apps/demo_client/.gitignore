@@ -1,0 +1,11 @@
+/_build/
+/cover/
+/deps/
+/doc/
+/.fetch
+erl_crash.dump
+*.ez
+demo_client-*.tar
+npm-debug.log
+/assets/node_modules/
+/priv/static/
